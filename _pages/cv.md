@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Human Genomics, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 2022 (expected)
+* MSc in Molecular Life Sciences (with specialisation Bioinformatics), University of Lausanne (UNIL), Switzerland, 2017
+* BSc in Biology, University of Lausanne (UNIL), Switzerland, 2015
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2018 - now: PhD researcher
+  * EPFL
+  * Supervisor: Prof. Jacques Fellay
+  * Thesis title: The interplay between human genetic variation, persistent infections and chronic inflammation: relevance for cardiovascular and neuropsychiatric morbidity
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Aug 2019: Visiting PhD student
+  * Wellcome Trust Centre for Human Genetics, University of Oxford
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Feb 2016 - Feb 2017: Master Thesis project
+  * EPFL
+  * Supervisor: Prof. Jacques Fellay
+  * Project title: KIR imputation and association testing in HIV infected populations.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Sep 2016 - Dec 2016: Teaching assistant in Bioinformatics
+  * University of Lausanne
+ 
+* Mar 2016 - Dec 2016: Computer skills instructor for seniors
+  * ACLI - Associazioni Cristiane dei Lavoratori Italiani
+
+* Jul 2015: Summer trainee
+  * Institute of Human Virology, Abuja, Nigeria 
+  * Aim: to address the HIV/AIDS crises in Nigeria through the development of infrastructure for treatment, care, prevention, and support for people living with HIV/AIDS
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
