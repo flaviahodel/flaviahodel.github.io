@@ -13,5 +13,3 @@ I graduated from [UNIL](http://unil.ch/index.html) in 2017, with a MSc in molecu
 ***Keywords**: human genomics; persistent pathogens; humoral immunity; chronic inflammation; genome-wide association study; cardiovascular diseases; neuropsychiatric diseases*
 
 
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/13986640/activity-summary/99315471ae02cb84106722b871eb6fac42cdda34'></iframe>
-
